@@ -33,7 +33,7 @@
 > **문의:** hjg0789@naver.com
 
 <br />
-## **수행 프로젝트**
+### **수행 프로젝트**
 [연습용 프로젝트](https://jungisw.github.io/hello-world/)
 
 <br />
