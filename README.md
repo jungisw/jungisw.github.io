@@ -34,7 +34,7 @@
 
 <br />
 ## **수행 프로젝트**
-[AI python 프로젝트](https://jungisw.github.io/hello-world/)
+[연습용 프로젝트](https://jungisw.github.io/hello-world/)
 
 <br />
 
